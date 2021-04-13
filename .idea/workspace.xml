@@ -24,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../solid" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -58,7 +58,7 @@
       <workItem from="1617885038133" duration="3751000" />
       <workItem from="1617973981462" duration="2024000" />
       <workItem from="1618234454438" duration="3173000" />
-      <workItem from="1618320798714" duration="2304000" />
+      <workItem from="1618320798714" duration="2543000" />
     </task>
     <servers />
   </component>
@@ -71,6 +71,10 @@
     </state>
     <state x="540" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1617302953830" />
     <state x="633" y="163" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1615544157892" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1618323373386">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1618323373386" />
     <state x="493" y="152" key="NewPhpClassDialog" timestamp="1618236652915">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
